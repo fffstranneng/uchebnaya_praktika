@@ -1,0 +1,15 @@
+C:\Users\Владислав\source\repos\zad1\zadd3\bin\Debug\net6.0\zadd3.exe
+C:\Users\Владислав\source\repos\zad1\zadd3\bin\Debug\net6.0\zadd3.deps.json
+C:\Users\Владислав\source\repos\zad1\zadd3\bin\Debug\net6.0\zadd3.runtimeconfig.json
+C:\Users\Владислав\source\repos\zad1\zadd3\bin\Debug\net6.0\zadd3.dll
+C:\Users\Владислав\source\repos\zad1\zadd3\bin\Debug\net6.0\zadd3.pdb
+C:\Users\Владислав\source\repos\zad1\zadd3\obj\Debug\net6.0\zadd3.csproj.AssemblyReference.cache
+C:\Users\Владислав\source\repos\zad1\zadd3\obj\Debug\net6.0\zadd3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\source\repos\zad1\zadd3\obj\Debug\net6.0\zadd3.AssemblyInfoInputs.cache
+C:\Users\Владислав\source\repos\zad1\zadd3\obj\Debug\net6.0\zadd3.AssemblyInfo.cs
+C:\Users\Владислав\source\repos\zad1\zadd3\obj\Debug\net6.0\zadd3.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\zad1\zadd3\obj\Debug\net6.0\zadd3.dll
+C:\Users\Владислав\source\repos\zad1\zadd3\obj\Debug\net6.0\refint\zadd3.dll
+C:\Users\Владислав\source\repos\zad1\zadd3\obj\Debug\net6.0\zadd3.pdb
+C:\Users\Владислав\source\repos\zad1\zadd3\obj\Debug\net6.0\zadd3.genruntimeconfig.cache
+C:\Users\Владислав\source\repos\zad1\zadd3\obj\Debug\net6.0\ref\zadd3.dll
