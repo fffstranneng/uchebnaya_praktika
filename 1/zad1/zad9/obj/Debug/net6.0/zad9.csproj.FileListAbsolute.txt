@@ -1,0 +1,15 @@
+C:\Users\Владислав\source\repos\zad2\zad9\bin\Debug\net6.0\zad9.exe
+C:\Users\Владислав\source\repos\zad2\zad9\bin\Debug\net6.0\zad9.deps.json
+C:\Users\Владислав\source\repos\zad2\zad9\bin\Debug\net6.0\zad9.runtimeconfig.json
+C:\Users\Владислав\source\repos\zad2\zad9\bin\Debug\net6.0\zad9.dll
+C:\Users\Владислав\source\repos\zad2\zad9\bin\Debug\net6.0\zad9.pdb
+C:\Users\Владислав\source\repos\zad2\zad9\obj\Debug\net6.0\zad9.csproj.AssemblyReference.cache
+C:\Users\Владислав\source\repos\zad2\zad9\obj\Debug\net6.0\zad9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\source\repos\zad2\zad9\obj\Debug\net6.0\zad9.AssemblyInfoInputs.cache
+C:\Users\Владислав\source\repos\zad2\zad9\obj\Debug\net6.0\zad9.AssemblyInfo.cs
+C:\Users\Владислав\source\repos\zad2\zad9\obj\Debug\net6.0\zad9.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\zad2\zad9\obj\Debug\net6.0\zad9.dll
+C:\Users\Владислав\source\repos\zad2\zad9\obj\Debug\net6.0\refint\zad9.dll
+C:\Users\Владислав\source\repos\zad2\zad9\obj\Debug\net6.0\zad9.pdb
+C:\Users\Владислав\source\repos\zad2\zad9\obj\Debug\net6.0\zad9.genruntimeconfig.cache
+C:\Users\Владислав\source\repos\zad2\zad9\obj\Debug\net6.0\ref\zad9.dll
