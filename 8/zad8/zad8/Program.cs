@@ -36,9 +36,9 @@ namespace z1
         static void Main(string[] args)
         {
             NOTE[] people = new NOTE[3];
-            people[0] = new NOTE("Sasha", "Tugai", "+375 33 901 50 73", 24, 11, 2005);
-            people[1] = new NOTE("Emir", "Krishen", "+973 33 376 37 12", 16, 12, 2003);
-            people[2] = new NOTE("Lesha", "Budzko", "+238 29 121 99 87", 13, 10, 2004);
+            people[0] = new NOTE("Sasha", "Skvorcov", "+375 33 901 50 73", 24, 11, 2005);
+            people[1] = new NOTE("Masha", "Yanushko", "+973 33 376 37 12", 16, 12, 2003);
+            people[2] = new NOTE("Dasha", "Velb", "+238 29 121 99 87", 13, 10, 2004);
             Array.Sort(people);
 
             for (int i = 0; i < people.Length; i++)
